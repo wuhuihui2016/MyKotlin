@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/private/whh_git/MyKotlin/app/src/main/res/drawable/check_user_password_selector.xml" value="0.1925925925925926" />
+        <entry key="..\:/private/whh_git/MyKotlin/app/src/main/res/drawable/corner_login_bg.xml" value="0.1925925925925926" />
+        <entry key="..\:/private/whh_git/MyKotlin/app/src/main/res/drawable/ic_baseline_cloud_download_24.xml" value="0.15989583333333332" />
+        <entry key="..\:/private/whh_git/MyKotlin/app/src/main/res/layout/activity_list_mvvm.xml" value="0.23958333333333334" />
+        <entry key="..\:/private/whh_git/MyKotlin/app/src/main/res/layout/activity_list_room.xml" value="0.23958333333333334" />
+        <entry key="..\:/private/whh_git/MyKotlin/app/src/main/res/layout/activity_main.xml" value="0.1474164133738602" />
+        <entry key="..\:/private/whh_git/MyKotlin/app/src/main/res/layout/activity_user_login.xml" value="0.1474164133738602" />
+        <entry key="..\:/private/whh_git/MyKotlin/app/src/main/res/layout/dialog_loading.xml" value="0.1474164133738602" />
+        <entry key="..\:/private/whh_git/MyKotlin/app/src/main/res/layout/fragment_home.xml" value="0.2265625" />
+        <entry key="..\:/private/whh_git/MyKotlin/app/src/main/res/layout/home_list_item.xml" value="0.1" />
+        <entry key="..\:/private/whh_git/MyKotlin/app/src/main/res/layout/item_collect_list.xml" value="0.1" />
+        <entry key="..\:/private/whh_git/MyKotlin/app/src/main/res/layout/test.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

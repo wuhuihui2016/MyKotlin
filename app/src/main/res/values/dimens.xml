@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- 默认的字体大小 -->
+    <dimen name="title_bar_height">48.0dp</dimen>
+    <dimen name="title_main_text_size">18sp</dimen>
+
+</resources>

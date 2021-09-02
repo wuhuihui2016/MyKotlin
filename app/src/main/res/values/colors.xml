@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- 主色 -->
+    <color name="main_color">#24cfa2</color>
+
+    <!-- 根布局的背景 -->
+    <color name="root_bg_color">#efeded</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <!-- 线条的背景灰色 -->
+
+    <!-- 标题黑色 -->
+
+    <!-- 头部颜色 -->
+    <color name="top_bg_color"> #323a45</color>
+
+    <!-- 深灰色 -->
+
+    <!-- 灰色 -->
+
+    <!-- 无色 -->
+
+</resources>
